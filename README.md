@@ -1,3 +1,7 @@
+# Detectia stresului din imagini
+
+## Tabel de analiza
+
 | Nr. | Autor/An | Titlu articol/proiect | Domeniu | Tehnologii Utilizate | Metodologie | Rezultate         | Limitari | Comentarii suplimentare |
 | -- | ------------------------ | --------------- | ---------- | ------------------ | ------------- | ------------------ | ---------- | ------------------------ |
 | 1 | 2023, Jaramillo-Quintar D., Gomez-Reyes J, Morales-Hernandez L., Dominguez-Trejo B., Rodriguez-Medina D., Cruz-Albarran I. | Automatic Segmentation of Facial Regions of Interest and Stress Detection using Machine Learning | Biomedical Engineering | TSST, HOG, SVM, Python 3, Thermography | automatic ROI selector for thermal face images, the process of obtaining average temperature values within the ROIs, and the intelligent classifier for baseline, stress, and relaxation![image](https://github.com/user-attachments/assets/a16a0d18-2f6d-4060-8fd7-1851ec3f1ecb) | ![image](https://github.com/user-attachments/assets/1ba96cd3-4446-41e9-9a95-a86d263d5ec7) ![image](https://github.com/user-attachments/assets/81bd7662-9a13-4fef-a9b4-bff9ba84bb07) | a blurred, non-frontal or obstructed image limits the correct selection of ROIs and the acquisition of the mean temperature | |
@@ -6,7 +10,7 @@
 | 4 |
 | 5 |
 
- 
+## Schema bloc
 ![SchemaBloc drawio](https://github.com/user-attachments/assets/a1819fdd-e7a5-45c5-a65e-c7e58ca1cb2a)
 
 
