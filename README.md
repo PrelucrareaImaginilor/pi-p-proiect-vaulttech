@@ -11,6 +11,7 @@
 | 5 |
 
 ## Schema bloc
-![SchemaBloc drawio](https://github.com/user-attachments/assets/a1819fdd-e7a5-45c5-a65e-c7e58ca1cb2a)
+![image](https://github.com/user-attachments/assets/8f3f37b8-a8e0-4a94-afc0-48c46bb7eea8)
+
 
 
